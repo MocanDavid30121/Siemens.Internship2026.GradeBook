@@ -1,0 +1,53 @@
+﻿# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# ASP.NET / IIS
+_ReSharper*/
+*.pidb
+*.svclog
+
+# Test results
+TestResults/
+[Tt]est[Rr]esult*/
+coverage/
+coverage.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Publish output
+publish/
+wwwroot/dist/
