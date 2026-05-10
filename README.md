@@ -29,6 +29,7 @@ The project was upgraded from .NET 8 to .NET 10 by updating the target framework
 
 ```xml
 <TargetFramework>net10.0</TargetFramework>
+```
 3. Service layer
 
 A service layer was added in order to keep business logic outside the controller and repository layers.
